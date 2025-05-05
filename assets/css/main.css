@@ -1,5 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
 
 /*
 	Prologue by HTML5 UP
@@ -89,6 +90,12 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
+	}
+
+	header h2 {
+			font-family: "Limelight", sans-serif;
+			font-weight: 400;
+			font-style: normal;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
